@@ -1,4 +1,5 @@
 # Customer Segmentation using K-Means Clustering
+ clustering with python and scikit-learn
 
 ## Project Overview
 This project uses the K-Means Clustering algorithm to segment mall customers based on their Annual Income and Spending Score.
